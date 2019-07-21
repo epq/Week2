@@ -1,5 +1,5 @@
 # Week 2 Homework ヽ(๏∀๏ )ﾉ
-For out HTML homework, we will each make a personal website about ourselves!
+For our HTML homework, we will each make a personal website about ourselves!
 
 ## Setup
 - Fork this project
