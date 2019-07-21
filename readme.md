@@ -1,5 +1,4 @@
 # Week 2 Homework ヽ(๏∀๏ )ﾉ
-=================
 For out HTML homework, we will each make a personal website about ourselves!
 
 ## Setup
